@@ -1,6 +1,5 @@
 # NH-Investment 2022 BigData Contest
 NH투자증권 2022년 빅데이터 경진대회 대상팀 ETFF Repository 입니다.
----
 
 > 대부분의 코드가 사측 규제 상 "비공개" 상태 입니다.
 
